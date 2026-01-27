@@ -9,7 +9,6 @@ This folder contains Python basics examples:
 - Strings
 
 
-# AyaulymM7-PP2
 # Practice2 - Python Control Flow
 This folder contains Python control flow examples:
 - Boolean Values
