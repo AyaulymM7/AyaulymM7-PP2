@@ -25,3 +25,24 @@ This folder contains Python control flow examples:
 - For Loops
 - For Loop Break
 - For Loop Continue
+
+
+# Practice3 - Python Functions and Object-Oriented Programming
+This folder contains Python examples for functions, lambda expressions, classes, and inheritance:
+
+- Functions: Basic Functions
+- Functions: Function Arguments
+- Functions: Return Values
+- Functions: Args and Kwargs
+- Lambda: Basics
+- Lambda: With Map
+- Lambda: With Filter
+- Lambda: With Sorted
+- Classes: Class Definition
+- Classes: Init Method
+- Classes: Class Methods
+- Classes: Class Variables
+- Inheritance: Basics
+- Inheritance: Super Function
+- Inheritance: Method Overriding
+- Inheritance: Multiple Inheritance
