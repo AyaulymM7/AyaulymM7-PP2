@@ -46,3 +46,38 @@ This folder contains Python examples for functions, lambda expressions, classes,
 - Inheritance: Super Function
 - Inheritance: Method Overriding
 - Inheritance: Multiple Inheritance
+
+
+# Practice4 - Python Iterators, Dates, Math, and JSON
+This folder contains Python examples and exercises covering advanced Python topics:
+
+- Iterators: iter() and next()
+- Iterators: Custom Iterator Class
+- Generators: yield Keyword
+- Generators: Generator Expressions
+- Generators: Range-based Generators
+- Generators: Countdown Generator
+- Generators: Divisible Numbers Generator
+
+- Dates: datetime Module
+- Dates: Creating Date Objects
+- Dates: Date Formatting (strftime)
+- Dates: Time Difference with timedelta
+- Dates: Difference in Seconds
+- Dates: Working with Timezones (zoneinfo)
+- Dates: Removing Microseconds
+
+- Math: Built-in Math Functions (min, max, abs, round, pow)
+- Math: math Module (sqrt, ceil, floor, sin, pi)
+- Math: Degree to Radian Conversion
+- Math: Area Calculations (Trapezoid, Polygon, Parallelogram)
+
+- Random Module: random(), randint(), choice(), shuffle()
+
+- JSON: JSON Syntax
+- JSON: Parsing JSON (json.load, json.loads)
+- JSON: Converting Python to JSON (json.dumps)
+- JSON: Writing JSON Files
+- JSON: Reading JSON Files
+
+This practice demonstrates working with iterators, generators, date and time operations, mathematical computations, and JSON data handling in Python.
