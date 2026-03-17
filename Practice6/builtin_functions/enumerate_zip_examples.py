@@ -1,20 +1,25 @@
-names = ["Ali", "Aruzhan", "Dana"]
+names = ["Ali", "Dana", "Aruzhan"]
 scores = [85, 90, 78]
 
-# enumerate
+#1 Use enumerate
 for i, name in enumerate(names):
-    print(i, name)
+    print(f"{i}: {name}")
 
-# zip
+#2 Enumerate starting from 1
+for i, name in enumerate(names, start=1):
+    print(f"{i}. {name}")
+
+#3 Use zip for pairing
 for name, score in zip(names, scores):
-    print(name, score)
+    print(f"{name} -> {score}")
 
-# sorted
-nums = [5, 2, 9, 1]
-print("Sorted:", sorted(nums))
+#4 Convert zip to dictionary
+students = dict(zip(names, scores))
+print("Dictionary:", students)
 
-# type conversion
-x = "10"
-print(type(x))
-x = int(x)
-print(type(x))
+#5 Type conversion
+value = "100"
+print("Converted:", int(value))
+
+#6 Use len on list
+print("Total students:", len(names))
