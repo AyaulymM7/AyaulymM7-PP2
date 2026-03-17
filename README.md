@@ -81,3 +81,16 @@ This folder contains Python examples and exercises covering advanced Python topi
 - JSON: Reading JSON Files
 
 This practice demonstrates working with iterators, generators, date and time operations, mathematical computations, and JSON data handling in Python.
+
+
+# Practice 6
+
+## Topics:
+- File handling
+- Directory management
+- Built-in functions
+
+## Structure:
+- file_handling/
+- directory_management/
+- builtin_functions/
